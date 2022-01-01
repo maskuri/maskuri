@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Achmad MaskuriIsnawan**.
+Perkenalkan nama saya **Achmad Maskuri Isnawan**.
 
 Saya seorang **Programmer Database** di [Pt Agrisoft Citra Buana]().
 
