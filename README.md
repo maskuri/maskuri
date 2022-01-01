@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Achmad MaskuriIsnawan**.
+
+Saya seorang **Programmer Database** di [Pt Agrisoft Citra Buana]().
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/achmad-maskuri-isnawan-116708168/) ku ya.
